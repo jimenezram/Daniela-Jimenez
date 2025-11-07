@@ -1,0 +1,5 @@
+{
+  "name": "AI Fitness & Image Studio",
+  "description": "A web application that displays fitness training plans and provides AI-powered tools to generate and edit images using Gemini.",
+  "requestFramePermissions": []
+}
